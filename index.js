@@ -12,7 +12,7 @@ class Circle {
     
   }
   
-  diameter(){
+  area(){
     
   }
   
