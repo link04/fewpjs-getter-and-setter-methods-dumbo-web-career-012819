@@ -4,6 +4,19 @@ class Circle {
     this.radius = radius;
   }
   
+   diameter(){
+    
+  }
+  
+  circumference(){
+    
+  }
+  
+  area(){
+    
+  }
+  
+  
   diameter(){
     
   }
