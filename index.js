@@ -16,8 +16,6 @@ class Circle {
     this.area = area;
   }
   
-  
-  
   get diameter(){
     return this.radius * 2;
   }
