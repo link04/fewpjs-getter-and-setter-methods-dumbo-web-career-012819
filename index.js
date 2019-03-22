@@ -4,28 +4,28 @@ class Circle {
     this.radius = radius;
   }
   
-   diameter(){
+ set diameter(){
     
   }
   
-  circumference(){
+  set circumference(){
     
   }
   
-  area(){
+  set area(){
     
   }
   
   
-  diameter(){
+  get diameter(){
     
   }
   
-  circumference(){
+  get circumference(){
     
   }
   
-  area(){
+  get area(){
     
   }
   
