@@ -5,15 +5,15 @@ class Circle {
   }
   
   set diameter(diameter){
-    this.diameter = diameter
+    this.diameter = diameter;
   }
   
-  set circumference(){
-    
+ set circumference(circumference){
+    this.circumference = circumference;
   }
   
-  set area(){
-    
+  set diameter(diameter){
+    this.diameter = diameter;
   }
   
   
