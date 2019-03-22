@@ -27,7 +27,7 @@ class Circle {
   }
   
   get area(){
-    
+    return  Math.PI * this.diameter
   }
   
   
