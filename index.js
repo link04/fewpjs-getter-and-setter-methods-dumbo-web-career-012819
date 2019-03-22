@@ -12,9 +12,10 @@ class Circle {
     this.circumference = circumference;
   }
   
-  set diameter(diameter){
-    this.diameter = diameter;
+  set circumference(circumference){
+    this.circumference = circumference;
   }
+  
   
   
   get diameter(){
