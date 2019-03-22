@@ -12,8 +12,8 @@ class Circle {
     this.circumference = circumference;
   }
   
-  set circumference(circumference){
-    this.circumference = circumference;
+  set area(area){
+    this.area = area;
   }
   
   
