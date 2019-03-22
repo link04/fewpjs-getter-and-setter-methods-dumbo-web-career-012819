@@ -8,7 +8,7 @@ class Circle {
     
   }
   
-  diameter(){
+  circumference(){
     
   }
   
