@@ -27,7 +27,7 @@ class Circle {
   }
   
   get area(){
-    return Math.PI * Math.sqrt(this.radius);
+    return Math.PI * this.radius;
   }
   
   
