@@ -9,8 +9,8 @@ class Circle {
   }
   
  set circumference(circumference){
-   //working
-    this.circumference = circumference;
+    this.diameter = circumference/Math.PI;
+    // this.circumference = circumference;
     
   }
   
