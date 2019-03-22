@@ -4,7 +4,7 @@ class Circle {
     this.radius = radius;
   }
   
- set diameter(){
+  set diameter(){
     
   }
   
