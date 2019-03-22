@@ -8,6 +8,13 @@ class Circle {
     
   }
   
+  diameter(){
+    
+  }
+  
+  diameter(){
+    
+  }
   
   
 }
